@@ -1,0 +1,8 @@
+1,0xessam,essam#Askme,essam_eldin,essamhishamdev@gmail.com,1
+2,noha,noha#Askme,noha_ayman,noha@ru.com,1
+3,mohamed,p@ssword,mohamed_anany,mo@cf.com,0
+4,ashraf,123456789,ahraf_ibrahim,ashrf@hotmail.com,1
+5,zeyad,10102020,zeyad_yasser,zoz@one.com,1
+6,ashraf67,15963247,ash_gamal,ali@ahmed.sh,0
+7,Ali,147852369,alisayed,assss,1
+8,qusai,EE%0123,qusairashed,tempmail@tmp.com,0
